@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["YAPIMCI İD"],
+        "ACTIVITY_TEXT": "Ayven System",
+        "GUILD_ID": "SUNUCU İD",
+        "VOICE_CHANNEL": "BOTUN GİRECEĞİ SES İD",
+        "MIN_STAFF_ROLE": "EN DÜŞÜK YETKİLİ ROLÜ"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "BOT TOKEN"
+}
